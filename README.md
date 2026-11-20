@@ -1,3 +1,6 @@
+![Logo](/aux/Head_light.svg#gh-light-mode-only)
+![Logo](/aux/Head_dark.svg#gh-dark-mode-only)
+
 # obsidian-config
 
 Configuración compartida de Obsidian, enlazada desde cada vault.
