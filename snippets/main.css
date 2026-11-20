@@ -1,0 +1,6 @@
+/* Cambiar color y bordes redondeados del subrayado en Obsidian (Tema Minimal) */
+mark,
+.cm-highlight {
+	border-radius: 4px !important; /* Radio de los bordes redondeados */
+	padding: 1px 4px !important; /* Relleno alrededor del texto */
+}

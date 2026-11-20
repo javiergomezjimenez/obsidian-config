@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Estado de sesión de Obsidian: local de cada vault
+workspace.json
+bookmarks.json
+
+# El grafo es propio de cada vault
+profiles/*/graph.json

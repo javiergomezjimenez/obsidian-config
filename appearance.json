@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "showRibbon": false,
+  "nativeMenus": false,
+  "translucency": false,
+  "textFontFamily": "",
+  "showViewHeader": false,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "mocha",
+    "Theme",
+    "main"
+  ]
+}

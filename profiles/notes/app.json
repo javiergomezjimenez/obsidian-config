@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./assets",
+  "showInlineTitle": true
+}
